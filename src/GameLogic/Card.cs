@@ -145,7 +145,7 @@ namespace CardGames.GameLogic
 
             }
         }
-        
+
         /// <summary>
         /// Returns a <see cref="System.String"/> that represents the current <see cref="CardGames.Card"/>. This will have
         /// the first character representing the rank (using T for 10), and then a symbol for the suit. For example, QS is
